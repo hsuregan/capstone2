@@ -1,0 +1,1 @@
+FDWAVEFORMVIEW_OTHER_LDFLAGS = -framework "AVFoundation" -framework "CoreGraphics" -framework "MediaPlayer"
